@@ -1,0 +1,21 @@
+{
+	"firstName": "John",
+	"lastName": "Doe",
+	"age": 38,
+	"address": {
+		"streetAddress": "555 Main St",
+		"city": "New York City",
+		"state": "NY",
+		"postalCode": 55555
+	},
+	"phoneNumbers": [
+		{
+			"type": "home",
+			"number": "111-111-1111"
+		},
+		{
+			"type": "fax",
+			"number": "222-222-2222"
+		}
+	]
+}

@@ -1,4 +1,4 @@
 # Python Notebooks
 
-### Collection of Python Notebooks for Statistics, Data Science and Machine Learning
-### Notes from courses taken through UCSD Extension, Coursera, and online tutorials
+### Collection of Python Notebooks for Machine Learning, Statistics and Data Science
+### Notes from courses taken through UCSD Extension and Coursera
